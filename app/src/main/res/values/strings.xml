@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InflarLayoutTarea</string>
+    <string name="btn1">Toast 1</string>
+    <string name="btn2">Toast 2</string>
+    <string name="btn3">Toast 3</string>
+    <string name="btn4">Toast 4</string>
+    <string name="btn5">Toast 5</string>
+    <string name="tv1">Toast 1</string>
+    <string name="tv2">Francisco M.O.</string>
+</resources>
